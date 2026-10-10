@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Welcome
-        run: "Hello From Mohd"
+        run: echo "Hello From Mohd"
